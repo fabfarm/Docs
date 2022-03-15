@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg12"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="SystemDiagram.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.22352941"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5801858"
+     inkscape:cx="225.75894"
+     inkscape:cy="537.94576"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs9">
+    <rect
+       x="109.68202"
+       y="523.6057"
+       width="83.327332"
+       height="56.972641"
+       id="rect15633" />
+  </defs>
+  <g
+     inkscape:label="Equipment"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect233"
+       width="53.657227"
+       height="3.4804688"
+       x="-61.834259"
+       y="157.15948"
+       transform="rotate(-36.795933)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect1299"
+       width="26.251339"
+       height="60.706223"
+       x="136.99919"
+       y="54.553566" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Piping">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.272918,163.25051 78.856562,0 v -52.91285 l 15.17655,0"
+       id="path1528"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 87.316469,133.10248 H 120.64337 V 60.501136 l 17.8427,0"
+       id="path1528-1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.01761,125.36938 0.63864,-2.68286 0.57933,2.68248"
+       id="path1901"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.47534,59.900108 2.68286,0.63864 -2.68248,0.57933"
+       id="path1901-9"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 126.76441,122.66026 -0.63864,2.68286 -0.57933,-2.68248"
+       id="path1901-0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.66876,110.96915 -2.68286,-0.63864 2.68248,-0.57933"
+       id="path1901-0-8"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Anno">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:'Trebuchet MS';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'Trebuchet MS';font-stretch:normal;font-variant:normal"
+       x="30.865829"
+       y="136.69154"
+       id="text7931"><tspan
+         sodipodi:role="line"
+         id="tspan7929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.264583"
+         x="30.865829"
+         y="136.69154"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'"
+           id="tspan2277">Collector</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="33.634529"
+       y="138.02461"
+       id="text8533"><tspan
+         sodipodi:role="line"
+         id="tspan8531"
+         style="stroke-width:0.264583"
+         x="33.634529"
+         y="138.02461" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text15631"
+       style="line-height:1.25;font-family:Trenda;font-size:40px;-inkscape-font-specification:Trenda;white-space:pre;shape-inside:url(#rect15633)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Trenda;-inkscape-font-specification:Trenda;stroke-width:0.264583"
+       x="31.583641"
+       y="150.43248"
+       id="text16929"><tspan
+         sodipodi:role="line"
+         id="tspan16927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trenda;-inkscape-font-specification:Trenda;stroke-width:0.264583"
+         x="31.583641"
+         y="150.43248">isdfjk</tspan></text>
+  </g>
+</svg>
